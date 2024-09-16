@@ -12,6 +12,6 @@ public class LoadData implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        loadDataService.loadDataFromCsv("src/main/resources/transactions.csv");
+        loadDataService.loadDataFromCsv("backend/craft/src/main/resources/transactions.csv");
     }
 }

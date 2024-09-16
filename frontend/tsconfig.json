@@ -21,6 +21,6 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
-, "jest.config.ts", "setupTests.ts"  ]
+    "frontend/src"
+, "frontend/jest.config.ts", "setupTests.ts"  ]
 }

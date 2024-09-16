@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "backend/main/java",
+        "backend/craft/src/main/java/com/example/craft"
+    ],
+    "java.compile.nullAnalysis.mode": "disabled"
+}

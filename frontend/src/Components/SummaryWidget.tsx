@@ -2,6 +2,7 @@ import CardContent from "@mui/material/CardContent";
 import Typography from '@mui/material/Typography';
 import { useMemo, useState } from "react";
 import { InvoiceType, TransactionType } from "./InvoiceDropdownWidget";
+import React from "react";
 
 const THRESHOLD = 1000;
 
